@@ -1,0 +1,53 @@
+
+.container{
+    text-align: center;
+}
+h1{
+      text-align: center;
+      margin-top: 20px !important;
+      font-family: 'Ubuntu';font-size: 22px;
+      color: #3498db;
+}
+.loader {
+    
+    border: 16px solid  #b2d8ec; 
+    border-radius: 70%;
+    width:220px;
+    height: 220px;
+    animation: spin 2s linear infinite;
+    margin:  0 auto;
+    margin-top: 40px;
+}
+.disp{
+   
+    margin-top: 70px; 
+    font-size: x-large;
+    font-weight: bolder;
+    color: #3498db;
+    
+ 
+}
+
+h2{
+    display: inline;
+}
+
+.btn{
+    width: 100px !important; 
+    height: 40px ;
+  border-radius: 40px !important;
+   background: linear-gradient(to left, #a1f1fc 0%, #3498db 100%) ;      
+   border: #3498db;
+   margin-top: 40px;
+  color: #ffffff !important;
+}
+
+
+
+
+p{ 
+    color: black;
+   margin-top: 60px !important;
+   font-weight: bold;
+}
+
